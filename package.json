@@ -9,7 +9,7 @@
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
-"homepage": "https://jirengu-inc.github.io/react-hello-world/build",
+"homepage": "https://gaoyang90212.github.io/react-hello-world/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
